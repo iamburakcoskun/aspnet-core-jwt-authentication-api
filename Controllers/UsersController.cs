@@ -39,5 +39,13 @@ namespace jwtCoreDemo.Controllers
             var users = _userService.GetAll();
             return Ok(users);
         }
+
+
+        [HttpPost]
+        public IActionResult Register(User user)
+        {
+            var users = _userService.Insert(user);
+            return Ok(users);
+        }
     }
 }

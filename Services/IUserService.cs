@@ -15,6 +15,7 @@ namespace WebApi.Services
     {
         User Authenticate(string kullaniciAdi, string sifre);
         IEnumerable<User> GetAll();
+        IEnumerable<User> Insert(User user);
     }
 
     public class UserService : IUserService
@@ -69,6 +70,14 @@ namespace WebApi.Services
                 x.Sifre = null;
                 return x;
             });
+        }
+
+        public IEnumerable<User> Insert(User user)
+        {   
+            _users.Add(user);
+
+            return _users;
+            
         }
     }
 }
