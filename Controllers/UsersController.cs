@@ -25,6 +25,8 @@ namespace jwtCoreDemo.Controllers
         [HttpPost("authenticate")]
         public IActionResult Authenticate([FromBody]User userParam)
         {
+            throw new Exception("No entered!");
+
             var user = _userService.Authenticate(userParam.KullaniciAdi, userParam.Sifre);
 
             if (user == null)
@@ -41,9 +43,16 @@ namespace jwtCoreDemo.Controllers
         }
 
 
-        [HttpPost]
+        [AllowAnonymous]
+        [HttpPost("register")]
         public IActionResult Register(User user)
         {
+            bool isUserExist;
+            isUserExist = _userService.IsUserExist(user);
+
+            if (isUserExist)
+                return BadRequest("Kullanıcı adı sistemde kayıtlıdır.");
+
             var users = _userService.Insert(user);
             return Ok(users);
         }
