@@ -12,3 +12,17 @@ C:\Users\burakcpc\Desktop\jwtCoreDemo\obj\Debug\netcoreapp2.1\jwtCoreDemo.Assemb
 C:\Users\burakcpc\Desktop\jwtCoreDemo\obj\Debug\netcoreapp2.1\jwtCoreDemo.RazorTargetAssemblyInfo.cache
 C:\Users\burakcpc\Desktop\jwtCoreDemo\obj\Debug\netcoreapp2.1\jwtCoreDemo.dll
 C:\Users\burakcpc\Desktop\jwtCoreDemo\obj\Debug\netcoreapp2.1\jwtCoreDemo.pdb
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\bin\Debug\netcoreapp2.1\jwtCoreDemo.deps.json
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\bin\Debug\netcoreapp2.1\jwtCoreDemo.runtimeconfig.json
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\bin\Debug\netcoreapp2.1\jwtCoreDemo.runtimeconfig.dev.json
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\bin\Debug\netcoreapp2.1\jwtCoreDemo.dll
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\bin\Debug\netcoreapp2.1\jwtCoreDemo.pdb
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.csprojAssemblyReference.cache
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.RazorAssemblyInfo.cache
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.RazorAssemblyInfo.cs
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.AssemblyInfoInputs.cache
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.AssemblyInfo.cs
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.RazorTargetAssemblyInfo.cache
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.dll
+C:\Users\burakcpc\Desktop\Github\aspnet-core-jwt-authentication-api\obj\Debug\netcoreapp2.1\jwtCoreDemo.pdb

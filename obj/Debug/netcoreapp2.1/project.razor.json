@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\burakcpc\\Desktop\\jwtCoreDemo\\jwtCoreDemo.csproj",
+  "FilePath": "c:\\Users\\burakcpc\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -17,6 +17,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;a&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "a",
@@ -350,6 +351,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.TagHelper\" /> implementation targeting &lt;cache&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "cache",
@@ -528,6 +530,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.TagHelper\" /> implementation targeting &lt;distributed-cache&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "distributed-cache",
@@ -715,6 +718,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;environment&gt; elements that conditionally renders\n            content based on the current value of <see cref=\"P:Microsoft.AspNetCore.Hosting.IHostingEnvironment.EnvironmentName\" />.\n            If the environment is not listed in the specified <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper.Names\" /> or <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper.Include\" />, \n            or if it is in <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper.Exclude\" />, the content will not be rendered.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "environment",
@@ -781,6 +785,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;button&gt; elements and &lt;input&gt; elements with\n            their <c>type</c> attribute set to <c>image</c> or <c>submit</c>.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "button",
@@ -1486,6 +1491,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;form&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "form",
@@ -1636,6 +1642,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;img&gt; elements that supports file versioning.\n            </summary>\n            <remarks>\n            The tag helper won't process for cases with just the 'src' attribute.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "img",
@@ -1705,6 +1712,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;input&gt; elements with an <c>asp-for</c> attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "input",
@@ -1808,6 +1816,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;label&gt; elements with an <c>asp-for</c> attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "label",
@@ -1855,6 +1864,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;link&gt; elements that supports fallback href paths.\n            </summary>\n            <remarks>\n            The tag helper won't process for cases with just the 'href' attribute.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "link",
@@ -2156,6 +2166,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;option&gt; elements.\n            </summary>\n            <remarks>\n            This <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> works in conjunction with <see cref=\"T:Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper\" />. It reads elements\n            content but does not modify that content. The only modification it makes is to add a <c>selected</c> attribute\n            in some cases.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "option",
@@ -2194,6 +2205,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            Renders a partial view.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "partial",
@@ -2283,6 +2295,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;script&gt; elements that supports fallback src paths.\n            </summary>\n            <remarks>\n            The tag helper won't process for cases with just the 'src' attribute.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "script",
@@ -2524,6 +2537,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;select&gt; elements with <c>asp-for</c> and/or\n            <c>asp-items</c> attribute(s).\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "select",
@@ -2615,6 +2629,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;textarea&gt; elements with an <c>asp-for</c> attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "textarea",
@@ -2676,6 +2691,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting any HTML element with an <c>asp-validation-for</c>\n            attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "span",
@@ -2723,6 +2739,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting any HTML element with an <c>asp-validation-summary</c>\n            attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "div",
@@ -2770,6 +2787,7 @@
         "AssemblyName": "Microsoft.AspNetCore.SpaServices",
         "Documentation": "\n            <summary>\n            A tag helper for prerendering JavaScript applications on the server.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "*",
@@ -2854,9 +2872,9 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "jwtCoreDemo",
   "Documents": [],
-  "SerializationFormat": "0.1"
+  "SerializationFormat": "0.2"
 }

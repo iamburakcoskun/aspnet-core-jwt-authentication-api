@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burakcpc\\Desktop\\jwtCoreDemo\\jwtCoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\burakcpc\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj",
       "projectName": "jwtCoreDemo",
-      "projectPath": "C:\\Users\\burakcpc\\Desktop\\jwtCoreDemo\\jwtCoreDemo.csproj",
+      "projectPath": "C:\\Users\\burakcpc\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj",
       "packagesPath": "C:\\Users\\burakcpc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burakcpc\\Desktop\\jwtCoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\burakcpc\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

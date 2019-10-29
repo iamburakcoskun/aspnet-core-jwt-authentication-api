@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\burak.coskun\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj": {}
+  },
+  "projects": {
+    "D:\\burak.coskun\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\burak.coskun\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj",
+        "projectName": "jwtCoreDemo",
+        "projectPath": "D:\\burak.coskun\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\jwtCoreDemo.csproj",
+        "packagesPath": "C:\\Users\\burak.coskun\\.nuget\\packages\\",
+        "outputPath": "D:\\burak.coskun\\Desktop\\Github\\aspnet-core-jwt-authentication-api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\burak.coskun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\rns-fs01\\Development\\98-UG\\ADFPackage\\adf\\1.0.25": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

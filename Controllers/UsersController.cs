@@ -22,10 +22,10 @@ namespace jwtCoreDemo.Controllers
         }
 
         [AllowAnonymous]
-        [HttpPost("authenticate")]
+        [HttpPost("Authenticate")]
         public IActionResult Authenticate([FromBody]User userParam)
         {
-            throw new Exception("No entered!");
+            // throw new Exception("No entered!");
 
             var user = _userService.Authenticate(userParam.KullaniciAdi, userParam.Sifre);
 
